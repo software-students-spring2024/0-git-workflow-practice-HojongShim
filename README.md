@@ -12,3 +12,6 @@ Declining prices, driven by technological advancements like Ideal Power's B-TRAN
 The adoption of Tesla's charging plug by other automakers is anticipated to expand charging infrastructure, while exploration of battery swapping technology continues.
 
 These trends highlight the momentum and potential of the EV market in 2024, making it a crucial focus for investors seeking opportunities in this rapidly evolving industry.
+
+### Stella Zhang:
+It looks like EVs are the future, which makes sense, at least in car-centric societies. Battery swapping seems like a promising solution to the problem of charging.
