@@ -15,3 +15,6 @@ These trends highlight the momentum and potential of the EV market in 2024, maki
 
 ### Stella Zhang:
 It looks like EVs are the future, which makes sense, at least in car-centric societies. Battery swapping seems like a promising solution to the problem of charging.
+
+### al6862:
+Agree with Stella, it seems like EVs are the future! I wonder what future cars will run on beyond electric. Will this trend towards electric vehicles also affect public transportation?
